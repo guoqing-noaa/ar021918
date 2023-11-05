@@ -156,7 +156,7 @@ export FRAC_GRID=".true."
 export OPS_RES="C768" # Do not change
 
 # Resolution specific parameters
-export LEVS=128
+export LEVS=65
 export CASE="C384"
 export CASE_ENS="C192"
 # TODO: This should not depend on $CASE or $CASE_ENS
